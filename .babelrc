@@ -1,0 +1,32 @@
+{
+  "presets": [
+    "react-native"
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "cwd": "babelrc",
+        "root": [
+          "./src"
+        ],
+        "extensions": [
+          ".js",
+          ".ios.js",
+          ".android.js"
+        ],
+        "alias": {
+          "Assets": "./src/Assets",
+          "Components": "./src/Components",
+          "Configs": "./src/Configs",
+          "Actions": "./src/Redux/Actions",
+          "Redux": "./src/Redux",
+          "Root": "./src",
+          "Scenes": "./src/Scenes",
+          "Styles": "./src/Styles",
+          "Util": "./src/Util"
+        }
+      }
+    ]
+  ]
+}

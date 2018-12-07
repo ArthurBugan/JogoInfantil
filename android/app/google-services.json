@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "676912922553",
+    "firebase_url": "https://jogo-infantil-34736.firebaseio.com",
+    "project_id": "jogo-infantil-34736",
+    "storage_bucket": "jogo-infantil-34736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676912922553:android:c89a4a1b95808685",
+        "android_client_info": {
+          "package_name": "com.jogoinfantil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676912922553-k9api4jet97pm606idi191g5ceg95d5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMW1u9bQHOsN1pH-uK-suEIfjpbQSJrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
